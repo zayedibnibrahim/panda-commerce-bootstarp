@@ -1,0 +1,27 @@
+
+.cat1{
+    background-color: #FFA500 !important;
+    color: #ffffff;
+}
+.cat2{
+    background-color: #DA70D6 !important;
+    color: #ffffff;
+}
+.cat3{
+    background-color: #0000FF !important;
+    color: #ffffff;
+}
+.carousel-item{
+    background-color: #fceae8;
+    border-radius: 10px;
+
+}
+.carousel-control-prev, .carousel-control-next{
+    width: 3%;
+}
+.card a.btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.card{
+    
+}
